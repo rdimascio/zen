@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/data/*": ["data/*"],
+      "@/templates/*": ["templates/*"],
+      "@/lib/*": ["lib/*"],
+      "@/css/*": ["core/src/assets/css/*"],
+      "@/scripts/*": ["bin/*"],
+      "@/themeConfig": ["zen.config.js"]
+    }
+  }
+}
